@@ -1,0 +1,8 @@
+{
+  "name": "CAPACITY CONNECT",
+  "description": "SIH26075 — Digital Capacity Building and Learning Management Portal for organisational competency mapping, skill assessment, gap analysis, training assignment, and reassessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
